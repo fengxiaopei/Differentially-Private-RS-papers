@@ -16,9 +16,9 @@ Privacy Preserving Point-of-Interest Recommendation Using Decentralized Matrix F
 Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy|Hyejin Shin,Sungwook Kim,Junbum Shin,and Xiaokui Xiao|IEEE Transactions on Knowledge and Data Engineering(TKDE)|note|[链接](https://ieeexplore.ieee.org/document/8290673)
 
 ## 1.2 Others
-Title|Authors|Published in|Notes|Files
-:---:|:---:|:---:|:---:|:---:
-Personalized Privacy-Preserving Social Recommendation|Xuying Meng,SuhangWang,Kai Shu,Jundong Li,Bo Chen,Huan Liu,Yujun Zhang|AAAI Conference on Artificial Intelligence (AAAI-18)|note|[链接](http://www.public.asu.edu/~jundongl/paper/AAAI18_PrivSR.pdf)
+Title|Authors|Published in|Year|Notes|Files
+:---:|:---:|:---:|:---:|:---:|:---:
+Personalized Privacy-Preserving Social Recommendation|Xuying Meng,SuhangWang,Kai Shu,Jundong Li,Bo Chen,Huan Liu,Yujun Zhang|AAAI Conference on Artificial Intelligence (AAAI-18)|2018|note|[链接](http://www.public.asu.edu/~jundongl/paper/AAAI18_PrivSR.pdf)
 
 
 # 2. Differentially Private Theory

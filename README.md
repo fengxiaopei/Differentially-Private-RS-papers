@@ -1,5 +1,5 @@
-# Differentially Private Recommendation
-## Matrix Factorization
+# 1. Differentially Private Recommendation
+## 1.1 Matrix Factorization
 ### 2015
 Title|Authors|Published in|Notes|Files
 :---:|:---:|:---:|:---:|:---:
@@ -15,13 +15,13 @@ Title|Authors|Published in|Notes|Files
 Privacy Preserving Point-of-Interest Recommendation Using Decentralized Matrix Factorization|Chaochao Chen, Ziqi Liu, Peilin Zhao,Jun Zhou, Xiaolong Li|AAAI Conference on Artificial Intelligence (AAAI-18)|note|[链接](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16123)
 Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy|Hyejin Shin,Sungwook Kim,Junbum Shin,and Xiaokui Xiao|IEEE Transactions on Knowledge and Data Engineering(TKDE)|note|[链接](https://ieeexplore.ieee.org/document/8290673)
 
-## Others
+## 1.2 Others
 Title|Authors|Published in|Notes|Files
 :---:|:---:|:---:|:---:|:---:
 Personalized Privacy-Preserving Social Recommendation|Xuying Meng,SuhangWang,Kai Shu,Jundong Li,Bo Chen,Huan Liu,Yujun Zhang|AAAI Conference on Artificial Intelligence (AAAI-18)|note|[链接](http://www.public.asu.edu/~jundongl/paper/AAAI18_PrivSR.pdf)
 
 
-# Differentially Private Theory
+# 2. Differentially Private Theory
 Title|Authors|Published in|Year|Notes|Files
 :---:|:---:|:---:|:---:|:---:|:---:
 Generalized Gaussian Mechanism for Differential Privacy|Fang Liu|IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING|2018|note|[链接](https://ieeexplore.ieee.org/document/8375673)

@@ -19,7 +19,7 @@ Privacy Enhanced Matrix Factorization for Recommendation with Local Differential
 Title|Authors|Published in|Year|Notes|Files
 :---:|:---:|:---:|:---:|:---:|:---:
 Personalized Privacy-Preserving Social Recommendation|Xuying Meng,SuhangWang,Kai Shu,Jundong Li,Bo Chen,Huan Liu,Yujun Zhang|AAAI Conference on Artificial Intelligence (AAAI-18)|2018|note|[链接](http://www.public.asu.edu/~jundongl/paper/AAAI18_PrivSR.pdf)
-
+Improved collaborative filtering recommendation algorithm based on differential privacy protection|
 
 # 2. Differentially Private Theory
 Title|Authors|Published in|Year|Notes|Files

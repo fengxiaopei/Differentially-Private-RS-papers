@@ -3,7 +3,7 @@
 [标题3](#标题3) 
 
 
-# 1. Differentially Private Recommendation
+# Differentially Private Recommendation
 ## 1.1 Matrix Factorization
 ### 2015
 Title|Authors|Published in|Notes|Files

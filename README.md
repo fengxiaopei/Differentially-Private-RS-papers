@@ -1,5 +1,5 @@
-[1. Differentially Private Recommendation](#1. Differentially Private Recommendation) 
-[1.1 Matrix Factorization](## 1.1 Matrix Factorization) 
+[Differentially Private Recommendation](#Differentially Private Recommendation) 
+[Matrix Factorization](##Matrix Factorization) 
 [标题3](#标题3) 
 
 

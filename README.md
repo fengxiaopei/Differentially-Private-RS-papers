@@ -25,3 +25,4 @@ Improved collaborative filtering recommendation algorithm based on differential 
 Title|Authors|Published in|Year|Notes|Files
 :---:|:---:|:---:|:---:|:---:|:---:
 Generalized Gaussian Mechanism for Differential Privacy|Fang Liu|IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING|2018|note|[链接](https://ieeexplore.ieee.org/document/8375673)
+Differentially Private Online Learning|Prateek Jain,Pravesh Kothari,Abhradeep Thakurta|25th Annual Conference on Learning Theory|2012|note|[链接](http://proceedings.mlr.press/v23/jain12/jain12.pdf)
